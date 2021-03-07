@@ -1,0 +1,10 @@
+label{
+    display: block;
+}
+.question-container{
+    background-color: #efefef;
+    padding: 10px;
+}
+body{
+    background-color: #efefef;
+}
